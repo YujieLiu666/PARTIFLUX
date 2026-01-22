@@ -16,7 +16,6 @@
   df = fread("FLX_US-NR1_FLUXNET2015_FULLSET_HH_1998-2014_1-4.csv") # change to your own
   df[df == -9999] <- NA 
   
-  
   # down-select variables
   EddyData = data.frame(
     TIMESTAMP_START = df$TIMESTAMP_START,
@@ -27,10 +26,10 @@
     RH = ifelse(df$RH > 100, 100, df$RH),
     VPD = df$VPD_F,
     Ustar = df$USTAR,
-    GPP_DT_CUT_REF = df$GPP_DT_CUT_REF, # please check
-    GPP_NT_CUT_REF = df$GPP_NT_CUT_REF, # please check
-    RECO_DT_CUT_REF = df$RECO_DT_CUT_REF, # please check
-    RECO_NT_CUT_REF = df$RECO_NT_CUT_REF # please check
+    GPP_DT_CUT_REF = df$GPP_DT_CUT_REF, # please check if we should use another variable 
+    GPP_NT_CUT_REF = df$GPP_NT_CUT_REF, # please check if we should use another variable 
+    RECO_DT_CUT_REF = df$RECO_DT_CUT_REF, # please check if we should use another variable 
+    RECO_NT_CUT_REF = df$RECO_NT_CUT_REF # please check if we should use another variable 
     
   )
   
@@ -77,9 +76,9 @@
   
   # Modified daytime partitioning 
   print("start of daytime partitioning ... ")
+  # Modified daytime-based Flux partitioning after Keenan et al. (2019)
   EProc$sTKFluxPartition() 
   print("end of MDT partitioning... ")
-  
   
   # Save the output variables to original dataframe
   EddyData$GPP_MDT = EProc$sTEMP$GPP_DT # MDT stands for modified daytime
@@ -92,7 +91,8 @@
   saveRDS(EProc, paste0(site_name, "_MDT.rds"))
 }
 
-# Load output and plot --------------------------------------------
+# Load output and plot  --------------------------------------------
+# (please think about if you want to make the figures in different ways) ... 
 {
   df =  fread(paste0(site_name, "_MDT.csv")); names(df)
   # Eproc = readRDS(paste0(site_name, "_MDT.rds"))
