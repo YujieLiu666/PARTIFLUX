@@ -19,7 +19,7 @@
   # down-select variables
   EddyData = data.frame(
     TIMESTAMP_START = df$TIMESTAMP_START,
-    NEE = df$NEE_VUT_REF,
+    NEE = df$NEE_CUT_REF,
     Rg = ifelse(df$PPFD_IN < 0, 0, PPFD.to.Rg(df$PPFD_IN)),
     PPFD = df$PPFD_IN,
     Tair = df$TA_F,
@@ -220,3 +220,4 @@
 
   
 }
+
