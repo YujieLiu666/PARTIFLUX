@@ -1,0 +1,679 @@
+Site ID,Site Name,Country,Hub,IGBP,Years,Length
+US-Ha1,Harvard Forest EMS Tower (HFR1),USA,AmeriFlux,DBF,1991-2025,35
+CA-Cbo,"Ontario - Mixed Deciduous, Borden Forest Site",Canada,AmeriFlux,DBF,1994-2024,31
+US-PFa,Park Falls/WLEF,USA,AmeriFlux,MF,1995-2025,31
+US-Ho1,Howland Forest (main tower),USA,AmeriFlux,ENF,1996-2025,30
+US-Me4,Metolius-old aged ponderosa pine,USA,AmeriFlux,ENF,1996-2025,30
+BE-Vie,Vielsalm,Belgium,ICOS,MF,1996-2024,29
+DE-Tha,Tharandt,Germany,ICOS,ENF,1996-2024,29
+DK-Sor,Soroe,Denmark,ICOS,DBF,1996-2024,29
+US-NR1,Niwot Ridge Forest (LTER NWT1),USA,AmeriFlux,ENF,1998-2025,28
+US-WCr,Willow Creek,USA,AmeriFlux,DBF,1998-2025,28
+CH-Dav,Davos,Switzerland,ICOS,ENF,1997-2024,28
+FI-Hyy,Hyytiala,Finland,ICOS,ENF,1997-2024,28
+FR-Hes,Hesse,France,ICOS,DBF,1997-2024,28
+NL-Loo,Loobos,Netherlands,ICOS,ENF,1997-2024,28
+US-Ho2,Howland Forest (west tower),USA,AmeriFlux,ENF,1999-2025,27
+US-MMS,Morgan Monroe State Forest,USA,AmeriFlux,DBF,1999-2025,27
+RU-Fyo,Fyodorovskoye,Russia,ICOS,ENF,1998-2024,27
+US-Los,Lost Creek,USA,AmeriFlux,WET,2000-2025,26
+US-UMB,Univ. of Mich. Biological Station,USA,AmeriFlux,DBF,2000-2025,26
+US-Var,Vaira Ranch- Ione,USA,AmeriFlux,GRA,2000-2025,26
+BE-Bra,Brasschaat,Belgium,ICOS,ENF,1999-2024,26
+IT-Ren,Renon,Italy,ICOS,ENF,1999-2024,26
+US-Syv,Sylvania Wilderness Area,USA,AmeriFlux,MF,2001-2025,25
+US-Ton,Tonzi Ranch,USA,AmeriFlux,WSA,2001-2025,25
+DE-Hai,Hainich,Germany,ICOS,DBF,2000-2024,25
+FR-Pue,Puechabon,France,ICOS,EBF,2000-2024,25
+IL-Yat,Yatir,Israel,ICOS,ENF,2000-2024,25
+US-Me2,Metolius mature ponderosa pine,USA,AmeriFlux,ENF,2002-2025,24
+US-Ne1,Mead - irrigated continuous maize site,USA,AmeriFlux,CRO,2001-2024,24
+US-Ne2,Mead - irrigated maize-soybean rotation site,USA,AmeriFlux,CRO,2001-2024,24
+US-Ne3,Mead - rainfed maize-soybean rotation site,USA,AmeriFlux,CRO,2001-2024,24
+JP-Tak,Takayama deciduous broadleaf forest site,Japan,ICOS,DBF,1998-2021,24
+JP-Yms,Yamashiro forest meteorology research site,Japan,ICOS,DBF,2000-2023,24
+CA-Mer,"Ontario - Eastern Peatland, Mer Bleue",Canada,AmeriFlux,WET,1998-2020,23
+US-ARM,ARM Southern Great Plains site- Lamont,USA,AmeriFlux,CRO,2003-2025,23
+JP-Api,Appi forest meteorology research site,Japan,ICOS,DBF,2000-2022,23
+JP-Tef,CC-LaG Teshio Experimental Forest,Japan,ICOS,DNF,2001-2023,23
+CA-TP1,Ontario - Turkey Point 2002 Plantation White Pine,Canada,AmeriFlux,ENF,2002-2023,22
+CA-TP3,Ontario - Turkey Point 1974 Plantation White Pine,Canada,AmeriFlux,ENF,2002-2023,22
+CA-TP4,Ontario - Turkey Point 1939 Plantation White Pine,Canada,AmeriFlux,ENF,2002-2023,22
+US-GLE,GLEES,USA,AmeriFlux,ENF,1999-2020,22
+US-SRM,Santa Rita Mesquite,USA,AmeriFlux,WSA,2004-2025,22
+US-Wkg,Walnut Gulch Kendall Grasslands,USA,AmeriFlux,GRA,2004-2025,22
+IT-MBo,Monte Bondone,Italy,ICOS,GRA,2003-2024,22
+JP-Khw,Kahoku Experiment watershed,Japan,ICOS,ENF,2000-2021,22
+UK-AMo,Auchencorth Moss,United Kingdom,ICOS,WET,2003-2024,22
+BR-Sa1,Santarem-Km67-Primary Forest,Brazil,AmeriFlux,EBF,2001-2021,21
+US-Bar,Bartlett Experimental Forest,USA,AmeriFlux,DBF,2004-2024,21
+US-SP1,Slashpine-Austin Cary- 65yrs nat regen,USA,AmeriFlux,ENF,2000-2020,21
+BE-Lon,Lonzee,Belgium,ICOS,CRO,2004-2024,21
+CH-Lae,Laegern,Switzerland,ICOS,MF,2004-2024,21
+CZ-BK1,Bily Kriz forest,Czech Republic,ICOS,ENF,2004-2024,21
+DE-Gri,Grillenburg,Germany,ICOS,GRA,2004-2024,21
+ES-LJu,Llano de los Juanes,Spain,ICOS,OSH,2004-2024,21
+FR-Gri,Grignon,France,ICOS,CRO,2004-2024,21
+IT-BCi,Borgo Cioffi,Italy,ICOS,CRO,2004-2024,21
+JP-Fjy,Fujiyoshida forest meteorology research site,Japan,ICOS,ENF,2001-2021,21
+US-Slt,Silas Little- New Jersey,USA,AmeriFlux,DBF,2005-2024,20
+CH-Fru,Fruebuel,Switzerland,ICOS,GRA,2005-2024,20
+FR-Aur,Aurade,France,ICOS,CRO,2005-2024,20
+IT-Col,Collelongo,Italy,AmeriFlux,DBF,1996-2014,19
+US-ICh,Imnavait Creek Watershed Heath Tundra,USA,AmeriFlux,OSH,2007-2025,19
+US-ICs,Imnavait Creek Watershed Wet Sedge Tundra,USA,AmeriFlux,WET,2007-2025,19
+US-ICt,Imnavait Creek Watershed Tussock Tundra,USA,AmeriFlux,OSH,2007-2025,19
+US-Seg,Sevilleta grassland,USA,AmeriFlux,GRA,2007-2025,19
+US-Ses,Sevilleta shrubland,USA,AmeriFlux,OSH,2007-2025,19
+US-UMd,UMBS Disturbance,USA,AmeriFlux,DBF,2007-2025,19
+US-Vcm,Valles Caldera Mixed Conifer,USA,AmeriFlux,ENF,2007-2025,19
+US-Vcp,Valles Caldera Ponderosa Pine,USA,AmeriFlux,ENF,2007-2025,19
+US-Whs,Walnut Gulch Lucky Hills Shrub,USA,AmeriFlux,OSH,2007-2025,19
+US-Wjs,Willard Juniper Savannah,USA,AmeriFlux,SAV,2007-2025,19
+CH-Aws,Alp Weissenstein,Switzerland,ICOS,GRA,2006-2024,19
+CZ-wet,Trebon,Czech Republic,ICOS,WET,2006-2024,19
+ES-Agu,Aguamarga,Spain,ICOS,OSH,2006-2024,19
+JP-Spp,Sapporo forest meteorology research site,Japan,ICOS,DBF,2000-2018,19
+JP-Tmd,Tomakomai Flux Research Site Disturbed,Japan,ICOS,GRA,2005-2023,19
+CA-LP1,British Columbia - Mountain pine beetle-attacked lodgepole pine stand,Canada,AmeriFlux,ENF,2007-2024,18
+US-MOz,Missouri Ozark Site,USA,AmeriFlux,DBF,2004-2021,18
+US-Mpj,Mountainair Pinyon-Juniper Woodland,USA,AmeriFlux,WSA,2008-2025,18
+US-SRG,Santa Rita Grassland,USA,AmeriFlux,GRA,2008-2025,18
+JP-Fhk,Fuji Hokuroku Flux Observation Site,Japan,ICOS,DNF,2006-2023,18
+US-Elm,Everglades (long hydroperiod marsh),USA,AmeriFlux,WET,2008-2024,17
+US-Esm,Everglades (short hydroperiod marsh),USA,AmeriFlux,WET,2008-2024,17
+US-NC4,NC_AlligatorRiver,USA,AmeriFlux,WET,2009-2025,17
+US-Rpf,Poker Flat Research Range: Succession from fire scar to deciduous forest,USA,AmeriFlux,DBF,2008-2024,17
+DE-Obe,Oberbarenburg,Germany,ICOS,ENF,2008-2024,17
+FR-FBn,Font-Blanche,France,ICOS,ENF,2008-2024,17
+ID-PaD,Palangkaraya Drained forest,Indonesia,ICOS,EBF,2001-2017,17
+IT-Tor,Torgnon,Italy,ICOS,GRA,2008-2024,17
+US-BZS,Bonanza Creek Black Spruce,USA,AmeriFlux,ENF,2010-2025,16
+US-EML,"Eight Mile Lake Permafrost thaw gradient, Healy Alaska.",USA,AmeriFlux,OSH,2008-2023,16
+US-Kon,Konza Prairie LTER (KNZ),USA,AmeriFlux,GRA,2004-2019,16
+US-Me6,Metolius Young Pine Burn,USA,AmeriFlux,ENF,2010-2025,16
+US-MtB,Mt Bigelow,USA,AmeriFlux,ENF,2009-2024,16
+US-Myb,Mayberry Wetland,USA,AmeriFlux,WET,2010-2025,16
+DE-Akm,Anklam,Germany,ICOS,WET,2009-2024,16
+FI-Let,Lettosuo,Finland,ICOS,ENF,2009-2024,16
+CA-Man,Manitoba - Northern Old Black Spruce (former BOREAS Northern Study Area),Canada,AmeriFlux,ENF,1994-2008,15
+CA-Oas,"Saskatchewan - Western Boreal, Mature Aspen",Canada,AmeriFlux,DBF,1996-2010,15
+US-BZB,Bonanza Creek Thermokarst Bog,USA,AmeriFlux,WET,2011-2025,15
+US-BZF,Bonanza Creek Rich Fen,USA,AmeriFlux,WET,2011-2025,15
+US-GL1,Stannard Rock,USA,AmeriFlux,WAT,2008-2022,15
+US-IB2,Fermi National Accelerator Laboratory- Batavia (Prairie site),USA,AmeriFlux,GRA,2004-2018,15
+CZ-Stn,Stitna,Czech Republic,ICOS,DBF,2010-2024,15
+ID-Pag,Palangkaraya undrained forest,Indonesia,ICOS,EBF,2004-2018,15
+AU-ASM,Alice Springs Mulga,Australia,TERN,SAV,2010-2024,15
+AU-Cpr,Calperum Chowilla,Australia,TERN,SAV,2010-2024,15
+AU-Wom,Wombat Forest,Australia,TERN,EBF,2010-2024,15
+AU-How,Howard Springs,Australia,AmeriFlux,WSA,2001-2014,14
+AU-Tum,Tumbarumba,Australia,AmeriFlux,EBF,2001-2014,14
+CA-ARB,Attawapiskat River Bog,Canada,AmeriFlux,WET,2011-2024,14
+CA-ARF,Attawapiskat River Fen,Canada,AmeriFlux,WET,2011-2024,14
+CA-Ca1,British Columbia - 1949 Douglas-fir stand,Canada,AmeriFlux,ENF,1997-2010,14
+CA-Obs,"Saskatchewan - Western Boreal, Mature Black Spruce",Canada,AmeriFlux,ENF,1997-2010,14
+IT-SRo,San Rossore,Italy,AmeriFlux,ENF,1999-2012,14
+BE-Dor,Dorinne,Belgium,ICOS,GRA,2011-2024,14
+CH-Rtb,Rietholzbach,Switzerland,ICOS,GRA,2009-2022,14
+CN-HaM,Haibei Alpine Tibet site,China,ICOS,GRA,2001-2014,14
+DE-RuR,Rollesbroich,Germany,ICOS,GRA,2011-2024,14
+DE-RuS,Selhausen Juelich,Germany,ICOS,CRO,2011-2024,14
+DE-RuW,Wustebach,Germany,ICOS,ENF,2011-2024,14
+FR-LBr,Le Bray,France,AmeriFlux,ENF,1996-2008,13
+IT-Cpz,Castelporziano,Italy,AmeriFlux,EBF,1997-2009,13
+US-Jo1,Jornada Experimental Range Bajada Site,USA,AmeriFlux,OSH,2010-2022,13
+US-KFS,Kansas Field Station,USA,AmeriFlux,GRA,2007-2019,13
+US-Prr,Poker Flat Research Range Black Spruce Forest,USA,AmeriFlux,ENF,2010-2022,13
+US-Ro1,Rosemount- G21,USA,AmeriFlux,CRO,2004-2016,13
+US-Tw1,Twitchell Wetland West Pond,USA,AmeriFlux,WET,2011-2023,13
+CN-Lch,Luancheng,China,ICOS,CRO,2008-2020,13
+CZ-RAJ,Rajec,Czech Republic,ICOS,ENF,2012-2024,13
+ID-PaB,Palangkaraya Drained Burnt forest,Indonesia,ICOS,OSH,2004-2016,13
+IT-Cp2,Castelporziano2,Italy,ICOS,MF,2012-2024,13
+IT-TrF,Torgnon-LD,Italy,ICOS,DNF,2012-2024,13
+JP-SMF,Seto Mixed Forest Site,Japan,ICOS,MF,2002-2014,13
+SN-Dhr,Dahra,Senegal,ICOS,GRA,2010-2022,13
+CA-Gro,"Ontario - Groundhog River, Boreal Mixedwood Forest",Canada,AmeriFlux,MF,2003-2014,12
+CA-SCC,Scotty Creek Landscape,Canada,AmeriFlux,ENF,2013-2024,12
+CA-TPD,Ontario - Turkey Point Mature Deciduous,Canada,AmeriFlux,DBF,2012-2023,12
+RU-Cok,Chokurdakh,Russia,AmeriFlux,OSH,2003-2014,12
+US-Akn,Savannah River Site,USA,AmeriFlux,MF,2011-2022,12
+US-NGB,NGEE Arctic Barrow,USA,AmeriFlux,SNO,2012-2023,12
+US-Ro4,Rosemount Prairie,USA,AmeriFlux,GRA,2014-2025,12
+US-Tw4,Twitchell East End Wetland,USA,AmeriFlux,WET,2013-2024,12
+DE-RuC,Wustebach Clearcut,Germany,ICOS,OSH,2013-2024,12
+IT-Lav,Lavarone,Italy,ICOS,ENF,2003-2014,12
+IT-SR2,San Rossore 2,Italy,ICOS,ENF,2013-2024,12
+JP-NsC,NILGS Nasu Research Station Chemical Fertilizer Plot,Japan,ICOS,GRA,2004-2015,12
+JP-NsM,NILGS Nasu Research Station Manure Application Plot,Japan,ICOS,GRA,2004-2015,12
+TH-Mae,Mae Moh plantation,Thailand,ICOS,DBF,2005-2016,12
+CA-Ca2,British Columbia - Clearcut Douglas-fir stand (harvested winter 1999/2000),Canada,AmeriFlux,ENF,2000-2010,11
+CL-SDP,Senda Darwin Peatland,Chile,AmeriFlux,WET,2014-2024,11
+DE-Lnf,Leinefelde,Germany,AmeriFlux,DBF,2002-2012,11
+IT-Ro2,Roccarespampani 2,Italy,AmeriFlux,DBF,2002-2012,11
+US-ALQ,Allequash Creek Site,USA,AmeriFlux,WET,2015-2025,11
+US-Blo,Blodgett Forest,USA,AmeriFlux,ENF,1997-2007,11
+US-Jo2,Jornada Experimental Range Mixed Shrubland,USA,AmeriFlux,OSH,2010-2020,11
+US-OWC,Old Woman Creek,USA,AmeriFlux,WET,2015-2025,11
+AT-Neu,Neustift,Austria,ICOS,GRA,2002-2012,11
+AT-Zoe,Zoebelboden,Austria,ICOS,MF,2014-2024,11
+CH-Oe2,Oensingen crop,Switzerland,ICOS,CRO,2004-2014,11
+CN-Ash,Ailaoshan,China,ICOS,EBF,2009-2019,11
+CN-Din,Dinghushan,China,ICOS,EBF,2010-2020,11
+CN-Dzo,Danzhou,China,ICOS,EBF,2010-2020,11
+DE-SfS,Schechenfilz Sued,Germany,ICOS,WET,2010-2020,11
+ES-LM1,Majadas del Tietar North,Spain,ICOS,SAV,2014-2024,11
+ES-LM2,Majadas del Tietar South,Spain,ICOS,SAV,2014-2024,11
+FR-Bil,Bilos,France,ICOS,ENF,2014-2024,11
+ID-JOP,Jambi Oil Palm Plantation,Indonesia,ICOS,EBF,2014-2024,11
+JP-Ta2,Takayama evergreen coniferous forest site,Japan,ICOS,ENF,2005-2015,11
+MY-LHP,Lambir Hills National Park,Malaysia,ICOS,EBF,2009-2019,11
+NL-Vkp,Veenkampen,Netherlands,ICOS,GRA,2014-2024,11
+RU-SkP,Yakutsk Spasskaya Pad larch,Russia,ICOS,DNF,2004-2014,11
+SE-Svb,Svartberget,Sweden,ICOS,ENF,2014-2024,11
+AU-Cum,Cumberland Plain,Australia,TERN,CVM,2014-2024,11
+CA-DBB,Delta Burns Bog,Canada,AmeriFlux,WET,2015-2024,10
+US-Bi1,Bouldin Island Alfalfa,USA,AmeriFlux,CRO,2016-2025,10
+US-Mo1,LTAR CMRB Field 1 (CMRB ASP),USA,AmeriFlux,CRO,2015-2024,10
+US-Oho,Oak Openings,USA,AmeriFlux,DBF,2004-2013,10
+US-Rls,RCEW Low Sagebrush,USA,AmeriFlux,CSH,2014-2023,10
+US-Rms,RCEW Mountain Big Sagebrush,USA,AmeriFlux,CSH,2014-2023,10
+US-Rwf,RCEW Upper Sheep Prescibed Fire,USA,AmeriFlux,CSH,2014-2023,10
+US-Rws,Reynolds Creek Wyoming big sagebrush,USA,AmeriFlux,OSH,2014-2023,10
+ZM-Mon,Mongu,Zambia,AmeriFlux,DBF,2000-2009,10
+BJ-Bfg,Bellefoungou,Benin,ICOS,DBF,2008-2017,10
+BJ-Nhu,Nalohou,Benin,ICOS,SAV,2008-2017,10
+CH-Cha,Chamau,Switzerland,ICOS,GRA,2005-2014,10
+CH-Oe3,Oensingen extensive grassland,Switzerland,ICOS,GRA,2002-2011,10
+CN-Dan,Dangxiong,China,ICOS,GRA,2011-2020,10
+CN-Xi2,Xilinhot grassland site (X03),China,ICOS,GRA,2011-2020,10
+CN-YaS,Yanchi natural shrubland,China,ICOS,OSH,2011-2020,10
+CN-Yuc,Yucheng,China,ICOS,CRO,2011-2020,10
+CZ-KrP,Kresin u Pacova,Czech Republic,ICOS,CRO,2014-2023,10
+CZ-Lnz,Lanzhot,Czech Republic,ICOS,DBF,2015-2024,10
+DE-GsB,Grosses Bruch,Germany,ICOS,GRA,2015-2024,10
+DE-HoH,Hohes Holz,Germany,ICOS,DBF,2015-2024,10
+DE-Hte,Huetelmoor,Germany,ICOS,WET,2009-2018,10
+JP-Fmt,Field Museum Tama Hills,Japan,ICOS,MF,2014-2023,10
+JP-Ynf,Yona-Field Tower Site,Japan,ICOS,EBF,2013-2022,10
+NL-Hrw,Haarweg,Netherlands,ICOS,GRA,2001-2010,10
+RU-Fy2,Fyodorovskoye dry spruce stand,Russia,ICOS,ENF,2015-2024,10
+AR-CCa,Carlos Casares agriculture,Argentina,AmeriFlux,CRO,2012-2020,9
+CL-SDF,Senda Darwin Forest,Chile,AmeriFlux,EBF,2014-2022,9
+CZ-BK2,Bily Kriz grassland,Czech Republic,AmeriFlux,GRA,2004-2012,9
+IT-Ro1,Roccarespampani 1,Italy,AmeriFlux,DBF,2000-2008,9
+US-Bi2,Bouldin Island corn,USA,AmeriFlux,CRO,2017-2025,9
+US-NC3,NC_Clearcut#3,USA,AmeriFlux,ENF,2013-2021,9
+US-Pnp,"Lake Mendota, Picnic Point Site",USA,AmeriFlux,WAT,2016-2024,9
+US-Ro2,Rosemount- C7,USA,AmeriFlux,CRO,2008-2016,9
+US-Ro5,Rosemount I18_South,USA,AmeriFlux,CRO,2017-2025,9
+US-Ro6,Rosemount I18_North,USA,AmeriFlux,CRO,2017-2025,9
+US-Twt,Twitchell Island,USA,AmeriFlux,CRO,2009-2017,9
+US-xCP,NEON Central Plains Experimental Range (CPER),USA,AmeriFlux,GRA,2016-2024,9
+US-xSC,NEON Smithsonian Conservation Biology Institute (SCBI),USA,AmeriFlux,DBF,2016-2024,9
+BE-Maa,Maasmechelen,Belgium,ICOS,CSH,2016-2024,9
+CN-BeO,Beijing Olympic Forest Park,China,ICOS,MF,2012-2020,9
+CN-DaW,Dangxiong wetland,China,ICOS,WET,2011-2019,9
+CN-Du2,Duolun_grassland (D01),China,ICOS,GRA,2011-2019,9
+CN-Ha2,Haibei Shrubland,China,ICOS,OSH,2011-2019,9
+DE-RuM,Merzenhausen,Germany,ICOS,CRO,2011-2019,9
+EE-Stg,Soontaga Forest Station,Estonia,ICOS,ENF,2016-2024,9
+FI-Var,Varrio,Finland,ICOS,ENF,2016-2024,9
+FR-Nzn,Naizin,France,ICOS,GRA,2016-2024,9
+IT-Arz,Arzelle,Italy,ICOS,OSH,2016-2024,9
+IT-Lsn,Lison,Italy,ICOS,OSH,2016-2024,9
+RU-Ege,Elgeeii forest station,Russia,ICOS,DNF,2010-2018,9
+TH-Kog,Kog-Ma Wateshed,Thailand,ICOS,EBF,2005-2013,9
+CA-Qfo,"Quebec - Eastern Boreal, Mature Black Spruce",Canada,AmeriFlux,ENF,2003-2010,8
+NL-Hor,Horstermeer,Netherlands,AmeriFlux,GRA,2004-2011,8
+US-BZo,Bonanza Creek Old Thermokarst Bog,USA,AmeriFlux,WET,2018-2025,8
+US-GBT,GLEES Brooklyn Tower,USA,AmeriFlux,ENF,1999-2006,8
+US-KLS,Kansas Land Institute,USA,AmeriFlux,GRA,2012-2019,8
+US-KS2,Kennedy Space Center (scrub oak),USA,AmeriFlux,CSH,1999-2006,8
+US-MN1,"Morris: Corn-Soybean with Cover Crops, Strip Tillage",USA,AmeriFlux,CRO,2017-2024,8
+US-MN2,"Morris: Corn-Soybean-Wheat with Cover Crops, Minimal Tillage",USA,AmeriFlux,CRO,2017-2024,8
+US-Mo3,LTAR CMRB Field 3 (CMRB BAU),USA,AmeriFlux,CRO,2016-2023,8
+US-NC1,NC_Clearcut,USA,AmeriFlux,ENF,2005-2012,8
+US-SRS,Santa Rita Savanna,USA,AmeriFlux,WSA,2011-2018,8
+US-xAB,NEON Abby Road (ABBY),USA,AmeriFlux,ENF,2017-2024,8
+US-xAE,NEON Klemme Range Research Station (OAES),USA,AmeriFlux,GRA,2017-2024,8
+US-xBA,NEON Barrow Environmental Observatory (BARR),USA,AmeriFlux,WET,2017-2024,8
+US-xBL,NEON Blandy Experimental Farm (BLAN),USA,AmeriFlux,DBF,2017-2024,8
+US-xBN,NEON Caribou Creek - Poker Flats Watershed (BONA),USA,AmeriFlux,ENF,2017-2024,8
+US-xBR,NEON Bartlett Experimental Forest (BART),USA,AmeriFlux,DBF,2017-2024,8
+US-xCL,NEON LBJ National Grassland (CLBJ),USA,AmeriFlux,GRA,2017-2024,8
+US-xDC,NEON Dakota Coteau Field School (DCFS),USA,AmeriFlux,GRA,2017-2024,8
+US-xDJ,NEON Delta Junction (DEJU),USA,AmeriFlux,ENF,2017-2024,8
+US-xDL,NEON Dead Lake (DELA),USA,AmeriFlux,MF,2017-2024,8
+US-xDS,NEON Disney Wilderness Preserve (DSNY),USA,AmeriFlux,CVM,2017-2024,8
+US-xGR,"NEON Great Smoky Mountains National Park, Twin Creeks (GRSM)",USA,AmeriFlux,DBF,2017-2024,8
+US-xHA,NEON Harvard Forest (HARV),USA,AmeriFlux,DBF,2017-2024,8
+US-xHE,NEON Healy (HEAL),USA,AmeriFlux,OSH,2017-2024,8
+US-xJE,NEON Jones Ecological Research Center (JERC),USA,AmeriFlux,ENF,2017-2024,8
+US-xJR,NEON Jornada LTER (JORN),USA,AmeriFlux,OSH,2017-2024,8
+US-xKA,NEON Konza Prairie Biological Station - Relocatable (KONA),USA,AmeriFlux,GRA,2017-2024,8
+US-xKZ,NEON Konza Prairie Biological Station (KONZ),USA,AmeriFlux,GRA,2017-2024,8
+US-xMB,NEON Moab (MOAB),USA,AmeriFlux,OSH,2017-2024,8
+US-xML,NEON Mountain Lake Biological Station (MLBS),USA,AmeriFlux,DBF,2017-2024,8
+US-xNG,NEON Northern Great Plains Research Laboratory (NOGP),USA,AmeriFlux,GRA,2017-2024,8
+US-xNQ,NEON Onaqui-Ault (ONAQ),USA,AmeriFlux,OSH,2017-2024,8
+US-xNW,NEON Niwot Ridge Mountain Research Station (NIWO),USA,AmeriFlux,ENF,2017-2024,8
+US-xRM,"NEON Rocky Mountain National Park, CASTNET (RMNP)",USA,AmeriFlux,ENF,2017-2024,8
+US-xRN,NEON Oak Ridge National Lab (ORNL),USA,AmeriFlux,DBF,2017-2024,8
+US-xSE,NEON Smithsonian Environmental Research Center (SERC),USA,AmeriFlux,DBF,2017-2024,8
+US-xSL,"NEON North Sterling, CO (STER)",USA,AmeriFlux,CRO,2017-2024,8
+US-xSR,NEON Santa Rita Experimental Range (SRER),USA,AmeriFlux,OSH,2017-2024,8
+US-xST,NEON Steigerwaldt Land Services (STEI),USA,AmeriFlux,DBF,2017-2024,8
+US-xTA,NEON Talladega National Forest (TALL),USA,AmeriFlux,ENF,2017-2024,8
+US-xTL,NEON Toolik (TOOL),USA,AmeriFlux,WET,2017-2024,8
+US-xTR,NEON Treehaven (TREE),USA,AmeriFlux,DBF,2017-2024,8
+US-xUK,NEON The University of Kansas Field Station (UKFS),USA,AmeriFlux,DBF,2017-2024,8
+US-xUN,NEON University of Notre Dame Environmental Research Center (UNDE),USA,AmeriFlux,MF,2017-2024,8
+US-xWD,NEON Woodworth (WOOD),USA,AmeriFlux,GRA,2017-2024,8
+CR-AqC,Aquiares Coffee-Flux,Costa Rica,ICOS,EBF,2009-2016,8
+ES-Cnd,Conde,Spain,ICOS,WSA,2014-2021,8
+ES-Gdn,Guadiana,Spain,ICOS,SAV,2014-2021,8
+FR-EM2,Estrees-Mons A28,France,ICOS,CRO,2017-2024,8
+FR-LGt,La Guette,France,ICOS,WET,2017-2024,8
+GF-Guy,Guyaflux,French Guiana,ICOS,EBF,2017-2024,8
+JP-Kzw,Karuizawa,Japan,ICOS,MF,2001-2008,8
+JP-MBF,Moshiri Birch Forest Site,Japan,ICOS,DBF,2004-2011,8
+JP-MMF,Moshiri Mixd Forest Site,Japan,ICOS,MF,2004-2011,8
+JP-Mse,Mase rice paddy field,Japan,ICOS,CRO,2002-2009,8
+KR-CmF,Cheongmicheon Farmland,South Korea,ICOS,CRO,2012-2019,8
+NO-Fns,Finse,Norway,ICOS,SNO,2017-2024,8
+RU-Ch2,Cherski reference,Russia,ICOS,WET,2014-2021,8
+SE-St1,Stordalen grassland,Sweden,ICOS,WET,2012-2019,8
+AU-Boy,Boyagin,Australia,TERN,WSA,2017-2024,8
+AR-CCg,Carlos Casares grassland,Argentina,AmeriFlux,GRA,2018-2024,7
+AU-DaP,Daly River Pasture,Australia,AmeriFlux,GRA,2007-2013,7
+AU-DaS,Daly River Savanna,Australia,AmeriFlux,SAV,2008-2014,7
+AU-Dry,Dry River,Australia,AmeriFlux,SAV,2008-2014,7
+AU-Stp,Sturt Plains,Australia,AmeriFlux,GRA,2008-2014,7
+CA-ER1,Elora Research Station,Canada,AmeriFlux,CRO,2015-2021,7
+CA-TP2,Ontario - Turkey Point 1989 Plantation White Pine,Canada,AmeriFlux,ENF,2002-2008,7
+CH-Oe1,Oensingen grassland,Switzerland,AmeriFlux,GRA,2002-2008,7
+MY-PSO,Pasoh Forest Reserve (PSO),Malaysia,AmeriFlux,EBF,2003-2009,7
+PR-xLA,NEON Lajas Experimental Station (LAJA),Puerto Rico,AmeriFlux,GRA,2018-2024,7
+US-CdM,Cedar Mesa,USA,AmeriFlux,WSA,2019-2025,7
+US-CGG,Concord Grazed Grassland,USA,AmeriFlux,GRA,2019-2025,7
+US-Cms,Central Marsh,USA,AmeriFlux,WET,1999-2005,7
+US-Cop,Corral Pocket,USA,AmeriFlux,GRA,2001-2007,7
+US-DFC,"US Dairy Forage Research Center, Prairie du Sac",USA,AmeriFlux,CRO,2018-2024,7
+US-EDN,Eden Landing Ecological Reserve,USA,AmeriFlux,WET,2018-2024,7
+US-HB1,North Inlet Crab Haul Creek,USA,AmeriFlux,WET,2018-2024,7
+US-HB2,Hobcaw Barony Mature Longleaf Pine,USA,AmeriFlux,ENF,2018-2024,7
+US-Mo2,LTAR CMRB Tucker Prairie (CMRB TP),USA,AmeriFlux,GRA,2018-2024,7
+US-NGC,NGEE Arctic Council,USA,AmeriFlux,GRA,2017-2023,7
+US-ONA,Florida pine flatwoods,USA,AmeriFlux,GRA,2016-2022,7
+US-SRC,Santa Rita Creosote,USA,AmeriFlux,OSH,2008-2014,7
+US-xSB,NEON Ordway-Swisher Biological Station (OSBS),USA,AmeriFlux,ENF,2018-2024,7
+US-xSJ,NEON San Joaquin Experimental Range (SJER),USA,AmeriFlux,SAV,2018-2024,7
+US-xWR,NEON Wind River Experimental Forest (WREF),USA,AmeriFlux,ENF,2018-2024,7
+US-xYE,NEON Yellowstone Northern Range (Frog Rock) (YELL),USA,AmeriFlux,ENF,2018-2024,7
+US-YK2,"Yukon-Kuskokwim Delta, Izaviknek-Kingaglia uplands, Unburned",USA,AmeriFlux,WET,2019-2025,7
+DE-Kli,Klingenberg,Germany,ICOS,CRO,2018-2024,7
+ES-Mcd,Moncada,Spain,ICOS,EBF,2018-2024,7
+FI-Ken,Kenttarova,Finland,ICOS,ENF,2018-2024,7
+FI-Sii,Siikaneva,Finland,ICOS,WET,2018-2024,7
+FR-Mau,Mauzac,France,ICOS,GRA,2005-2011,7
+FR-Tou,Toulouse,France,ICOS,GRA,2018-2024,7
+JP-BBY,Bibai bog,Japan,ICOS,WET,2014-2020,7
+JP-Shn,Shinshu University Experimental Forest Site,Japan,ICOS,MF,2014-2020,7
+JP-Srk,Shirakami Beech Forest Site,Japan,ICOS,DBF,2010-2016,7
+KE-Kpt,Kapiti,Kenya,ICOS,GRA,2018-2024,7
+KR-CRK,Cheorwon Rice paddy,South Korea,ICOS,CRO,2015-2021,7
+KR-SmM,Seolmacheon Mixed forest,South Korea,ICOS,MF,2015-2021,7
+RU-NeF,Neleger larch forest,Russia,ICOS,DNF,2000-2006,7
+SE-Htm,Hyltemossa,Sweden,ICOS,ENF,2018-2024,7
+SE-Nor,Norunda,Sweden,ICOS,ENF,2018-2024,7
+SE-Ros,Rosinedal-3,Sweden,ICOS,ENF,2014-2020,7
+SN-Nkr,Niakhar,Senegal,ICOS,CRO,2018-2024,7
+CA-DB2,Delta Burns Bog 2,Canada,AmeriFlux,WET,2019-2024,6
+CA-SCB,Scotty Creek Bog,Canada,AmeriFlux,WET,2014-2019,6
+CA-SF2,"Saskatchewan - Western Boreal, forest burned in 1989",Canada,AmeriFlux,ENF,2001-2006,6
+CA-SF3,"Saskatchewan - Western Boreal, forest burned in 1998",Canada,AmeriFlux,OSH,2001-2006,6
+ES-Amo,Amoladeras,Spain,AmeriFlux,OSH,2007-2012,6
+US-Atq,Atqasuk,USA,AmeriFlux,WET,2003-2008,6
+US-Fmf,Flagstaff - Managed Forest,USA,AmeriFlux,ENF,2005-2010,6
+US-Fuf,Flagstaff - Unmanaged Forest,USA,AmeriFlux,ENF,2005-2010,6
+US-Fwf,Flagstaff - Wildfire,USA,AmeriFlux,GRA,2005-2010,6
+US-HB3,Hobcaw Barony Longleaf Pine Restoration,USA,AmeriFlux,ENF,2019-2024,6
+US-LS2,San Pedro River Lewis Springs Savanna,USA,AmeriFlux,SAV,2002-2007,6
+US-Me3,Metolius-second young aged pine,USA,AmeriFlux,ENF,2004-2009,6
+US-ORv,Olentangy River Wetland Research Park,USA,AmeriFlux,WET,2011-2016,6
+US-SSH,Susquehanna Shale Hills Critical Zone Observatory,USA,AmeriFlux,DBF,2016-2021,6
+US-StJ,St Jones Reserve,USA,AmeriFlux,WET,2015-2020,6
+US-Tw3,Twitchell Alfalfa,USA,AmeriFlux,CRO,2013-2018,6
+US-UC1,LTAR UCB (Upper Chesapeake Bay) EC1,USA,AmeriFlux,CVM,2019-2024,6
+US-UC2,LTAR UCB (Upper Chesapeake Bay) EC2,USA,AmeriFlux,CVM,2019-2024,6
+US-xPU,NEON Pu'u Maka'ala Natural Area Reserve (PUUM),USA,AmeriFlux,EBF,2019-2024,6
+CN-Jzh,Jinzhou,China,ICOS,CRO,2011-2016,6
+CZ-LnG,Lanzhot Grassland,Czech Republic,ICOS,GRA,2019-2024,6
+ES-Abr,Albuera,Spain,ICOS,SAV,2015-2020,6
+ES-HeB,Hellín Burnt,Spain,ICOS,ENF,2019-2024,6
+ES-Hen,Hellin,Spain,ICOS,ENF,2019-2024,6
+FI-Qvd,Qvidja,Finland,ICOS,CRO,2018-2023,6
+FR-CLt,Col du Lautaret,France,ICOS,GRA,2019-2024,6
+FR-Fon,Fontainebleau-Barbeau,France,ICOS,DBF,2019-2024,6
+FR-Mej,Mejusseaume,France,ICOS,GRA,2019-2024,6
+GL-NuF,Nuuk Fen,Greenland,ICOS,WET,2019-2024,6
+IE-CaC,Carlow Conventional Tillage,Ireland,ICOS,CRO,2003-2008,6
+IL-RmH,Ramat Hanadiv,Israel,ICOS,EBF,2015-2020,6
+IT-BFt,Bosco Fontana,Italy,ICOS,DBF,2019-2024,6
+IT-MtM,Muntatschinig Meadow,Italy,ICOS,GRA,2014-2019,6
+IT-MtP,Muntatschinig Pasture,Italy,ICOS,GRA,2014-2019,6
+IT-Niv,Nivolet,Italy,ICOS,GRA,2019-2024,6
+KE-Mkt,Maktau,Kenya,ICOS,CRO,2019-2024,6
+MN-Hst,Hustai grassland,Mongolia,ICOS,GRA,2015-2020,6
+MN-Kbu,Kherlenbayan Ulaan,Mongolia,ICOS,GRA,2003-2008,6
+MN-Nkh,Nalaikh grassland,Mongolia,ICOS,GRA,2015-2020,6
+RU-Fy4,Fyodorovskoye bog,Russia,ICOS,WET,2015-2020,6
+RU-NeC,Neleger Cutover,Russia,ICOS,OSH,2001-2006,6
+SE-Deg,Degero,Sweden,ICOS,WET,2019-2024,6
+BR-Npw,Northern Pantanal Wetland,Brazil,AmeriFlux,WSA,2013-2017,5
+BR-Sa3,Santarem-Km83-Logged Forest,Brazil,AmeriFlux,EBF,2000-2004,5
+CA-NS1,UCI-1850 burn site,Canada,AmeriFlux,ENF,2001-2005,5
+CA-NS2,UCI-1930 burn site,Canada,AmeriFlux,ENF,2001-2005,5
+CA-NS3,UCI-1964 burn site,Canada,AmeriFlux,ENF,2001-2005,5
+CA-NS4,UCI-1964 burn site wet,Canada,AmeriFlux,ENF,2001-2005,5
+CA-NS5,UCI-1981 burn site,Canada,AmeriFlux,ENF,2001-2005,5
+CA-NS6,UCI-1989 burn site,Canada,AmeriFlux,OSH,2001-2005,5
+CA-NS7,UCI-1998 burn site,Canada,AmeriFlux,OSH,2001-2005,5
+DE-Lkb,Lackenberg,Germany,AmeriFlux,ENF,2009-2013,5
+DE-Spw,Spreewald,Germany,AmeriFlux,WET,2010-2014,5
+MX-Tes,"Tesopaco, secondary tropical dry forest",Mexico,AmeriFlux,DBF,2004-2008,5
+PE-QFR,Quistococha Forest Reserve,Peru,AmeriFlux,WET,2018-2022,5
+SD-Dem,Demokeya,Sudan,AmeriFlux,SAV,2005-2009,5
+US-BRG,Bayles Road Grassland Tower,USA,AmeriFlux,GRA,2016-2020,5
+US-CF1,CAF-LTAR Cook East,USA,AmeriFlux,CRO,2017-2021,5
+US-CF2,CAF-LTAR Cook West,USA,AmeriFlux,CRO,2017-2021,5
+US-CF3,CAF-LTAR Boyd North,USA,AmeriFlux,CRO,2017-2021,5
+US-CF4,CAF-LTAR Boyd South,USA,AmeriFlux,CRO,2017-2021,5
+US-CS2,Tri county school Pine Forest,USA,AmeriFlux,ENF,2018-2022,5
+US-Cst,Crossett Experimental Forest,USA,AmeriFlux,ENF,2013-2017,5
+US-Dmg,Dutch Slough Marsh Gilbert Tract,USA,AmeriFlux,WET,2021-2025,5
+US-DPW,Disney Wilderness Preserve Wetland,USA,AmeriFlux,WET,2013-2017,5
+US-DS3,Staten Rice 1,USA,AmeriFlux,CRO,2021-2025,5
+US-Goo,Goodwin Creek,USA,AmeriFlux,GRA,2002-2006,5
+US-HB4,Minim Creek Brackish Impoundment,USA,AmeriFlux,WET,2020-2024,5
+US-Hsm,Hill Slough Marsh,USA,AmeriFlux,WET,2021-2025,5
+US-LA3,Barataria Bay Saline Marsh,USA,AmeriFlux,WET,2019-2023,5
+US-MN3,"Morris: Corn-Soybean, Conventional Tillage",USA,AmeriFlux,CRO,2020-2024,5
+US-RGA,Arkansas Corn Farm,USA,AmeriFlux,CRO,2021-2025,5
+US-RGo,Glenn County Organic Rice Farm,USA,AmeriFlux,CRO,2021-2025,5
+US-Rwe,RCEW Reynolds Mountain East,USA,AmeriFlux,CSH,2003-2007,5
+US-Sne,Sherman Island Restored Wetland,USA,AmeriFlux,GRA,2016-2020,5
+US-Sta,Saratoga,USA,AmeriFlux,OSH,2005-2009,5
+AT-PsM,Puergschachen Moor,Austria,ICOS,WET,2015-2019,5
+CD-Ygb,Yangambi,Congo - Kinshasa,ICOS,MF,2020-2024,5
+CN-Lsh,Laoshan,China,ICOS,DNF,2002-2006,5
+DE-Geb,Gebesee,Germany,ICOS,CRO,2020-2024,5
+DE-Har,Hartheim,Germany,ICOS,ENF,2020-2024,5
+DE-Msr,Mooseurach,Germany,ICOS,ENF,2020-2024,5
+ES-LMa,Las Majadas de Tietar,Spain,ICOS,SAV,2020-2024,5
+ES-Pzb,Pozoblanco,Spain,ICOS,GRA,2020-2024,5
+ES-TzM,Tarazona de la Mancha,Spain,ICOS,DBF,2020-2024,5
+GL-Dsk,Disko,Greenland,ICOS,OSH,2020-2024,5
+GL-ZaH,Zackenberg Gras,Greenland,ICOS,GRA,2020-2024,5
+IE-CaN,Carlow No Tillage,Ireland,ICOS,CRO,2003-2007,5
+IE-Cra,Clara Raised Bog,Ireland,ICOS,WET,2020-2024,5
+IT-NiG,Nivolet grassland,Italy,ICOS,GRA,2020-2024,5
+KR-Kw1,Gwangneung Coniferous forest,South Korea,ICOS,ENF,2016-2020,5
+KR-Kw2,Gwangneung Deciduous forest,South Korea,ICOS,DBF,2016-2020,5
+RU-Sk2,Yakutsk Spasskaya Pad Pine,Russia,ICOS,ENF,2004-2008,5
+SE-Lnn,Lanna,Sweden,ICOS,—,2014-2018,5
+ZA-BfK,Benfontien Karoo,South Africa,ICOS,OSH,2020-2024,5
+ZA-BfS,Benfontien Savanna,South Africa,ICOS,OSH,2020-2024,5
+AR-Vir,Virasoro,Argentina,AmeriFlux,ENF,2009-2012,4
+AU-Gin,Gingin,Australia,AmeriFlux,WSA,2011-2014,4
+AU-Rig,Riggs Creek,Australia,AmeriFlux,GRA,2011-2014,4
+AU-Wac,Wallaby Creek,Australia,AmeriFlux,EBF,2005-2008,4
+AU-Whr,Whroo,Australia,AmeriFlux,EBF,2011-2014,4
+CA-DSM,Delta Salt Marsh,Canada,AmeriFlux,WET,2021-2024,4
+CA-Qc2,Quebec - 1975 Harvested Black Spruce (HBS75),Canada,AmeriFlux,MF,2007-2010,4
+CA-SF1,"Saskatchewan - Western Boreal, forest burned in 1977",Canada,AmeriFlux,ENF,2003-2006,4
+CG-Tch,Tchizalamou,Republic of the Congo,AmeriFlux,SAV,2006-2009,4
+CL-ACF,Alerce Costero Forest,Chile,AmeriFlux,ENF,2018-2021,4
+CN-Cng,Changling,China,AmeriFlux,GRA,2007-2010,4
+CR-Fsc,Filadelfia sugar cane cropland,Costa Rica,AmeriFlux,CRO,2015-2018,4
+DE-Seh,Selhausen,Germany,AmeriFlux,CRO,2007-2010,4
+DK-Eng,Enghave,Denmark,AmeriFlux,GRA,2005-2008,4
+FI-Jok,Jokioinen,Finland,AmeriFlux,CRO,2000-2003,4
+RU-Che,Cherski,Russia,AmeriFlux,WET,2002-2005,4
+SJ-Adv,Adventdalen,Svalbard and Jan Mayen,AmeriFlux,WET,2011-2014,4
+US-AR1,ARM USDA UNL OSU Woodward Switchgrass 1,USA,AmeriFlux,GRA,2009-2012,4
+US-AR2,ARM USDA UNL OSU Woodward Switchgrass 2,USA,AmeriFlux,GRA,2009-2012,4
+US-CRK,Davy Crockett National Forest,USA,AmeriFlux,ENF,2022-2025,4
+US-DFK,Dairy Forage Research Center - Kernza,USA,AmeriFlux,CRO,2018-2021,4
+US-DS2,Staten Corn 2,USA,AmeriFlux,CRO,2020-2023,4
+US-EvM,Everglades Saltwater intrusion marsh,USA,AmeriFlux,WET,2020-2023,4
+US-Fcr,Cascaden Ridge Fire Scar,USA,AmeriFlux,OSH,2011-2014,4
+US-Hn2,Hanford 100H grassland,USA,AmeriFlux,GRA,2015-2018,4
+US-HWB,USDA ARS Pasture Sytems and Watershed Management Research Unit- Hawbecker Site,USA,AmeriFlux,CVM,2015-2018,4
+US-Ivo,Ivotuk,USA,AmeriFlux,WET,2004-2007,4
+US-KPL,Lily Lake Fen,USA,AmeriFlux,WET,2021-2024,4
+US-Me5,Metolius-first young aged pine,USA,AmeriFlux,ENF,1999-2002,4
+US-RGB,Butte County Rice Farm,USA,AmeriFlux,CRO,2021-2024,4
+US-Ro3,Rosemount- G19,USA,AmeriFlux,CRO,2004-2007,4
+US-RRC,Rice Rivers Center Marsh,USA,AmeriFlux,WET,2022-2025,4
+US-SHC,Sagehen Creek Field Station,USA,AmeriFlux,ENF,2017-2020,4
+US-Srr,Suisun marsh - Rush Ranch,USA,AmeriFlux,WET,2014-2017,4
+US-UTB,UFLUX Bonneville Salt Flats,USA,AmeriFlux,BSV,2021-2024,4
+US-Wi4,Mature red pine (MRP),USA,AmeriFlux,ENF,2002-2005,4
+AT-Mmg,Mieming,Austria,ICOS,ENF,2021-2024,4
+BE-Lcr,Lochristi,Belgium,ICOS,DBF,2019-2022,4
+CH-Rh1,Ruethi peatland reference,Switzerland,ICOS,GRA,2018-2021,4
+CH-Rh2,Ruethi peatland covered,Switzerland,ICOS,GRA,2018-2021,4
+DE-Dgw,Dagowsee,Germany,ICOS,WAT,2015-2018,4
+DE-Hdn,Heydenhof,Germany,ICOS,CRO,2020-2023,4
+DE-Rns,Reinshof,Germany,ICOS,CRO,2021-2024,4
+DK-Vng,Voulundgaard,Denmark,ICOS,CRO,2020-2023,4
+ES-Crg,Caroig,Spain,ICOS,CSH,2021-2024,4
+ES-Pdu,Padul,Spain,ICOS,WET,2014-2017,4
+FI-Nsv,Naarasneva,Finland,ICOS,CVM,2021-2024,4
+FI-Rk2,Ranskalankorpi,Finland,ICOS,ENF,2020-2023,4
+FI-Ruk,Ruukki,Finland,ICOS,CRO,2020-2023,4
+FR-Lam,Lamasquere,France,ICOS,CRO,2021-2024,4
+GH-Ank,Ankasa,Ghana,ICOS,EBF,2011-2014,4
+IT-BsB,Bussoleno Bosco,Italy,ICOS,DBF,2021-2024,4
+IT-CA1,Castel d'Asso1,Italy,ICOS,DBF,2011-2014,4
+IT-CA2,Castel d'Asso2,Italy,ICOS,CRO,2011-2014,4
+IT-CA3,Castel d'Asso3,Italy,ICOS,DBF,2011-2014,4
+JP-Hc3,Hachihama Experimental Farm Double Crop,Japan,ICOS,CRO,2005-2008,4
+JP-Sb1,Sarobetsu Mire Moss,Japan,ICOS,WET,2007-2010,4
+JP-Sb2,Sarobetsu Mire Sasa,Japan,ICOS,WET,2007-2010,4
+JP-Toc,Tomakomai Crane site,Japan,ICOS,DBF,2011-2014,4
+KH-Kmp,Kampong Thom Lowland Dry Evergreen Forest,Cambodia,ICOS,EBF,2011-2014,4
+KR-AdC,Anmyeondo Coniferous forest,South Korea,ICOS,ENF,2015-2018,4
+KR-GmP,Gimje Rice-barley double cropping Paddy Field,South Korea,ICOS,CRO,2011-2014,4
+KR-HcM,Hongcheon Mixed forest,South Korea,ICOS,MF,2015-2018,4
+KR-Hnm,Haenam Farmland (HFK),South Korea,ICOS,CRO,2016-2019,4
+KR-JjM,Jeju Mixed forest,South Korea,ICOS,MF,2015-2018,4
+KR-PcD,Pyeongchang Deciduous forest,South Korea,ICOS,DBF,2015-2018,4
+KR-ScC,Samcheok Coniferous forest,South Korea,ICOS,ENF,2015-2018,4
+KR-WdE,Wando Evergreen broadleaf forest,South Korea,ICOS,EBF,2015-2018,4
+NO-Ikr,Iskoras,Norway,ICOS,WET,2019-2022,4
+UK-BnB,Ballynahone Bog,United Kingdom,ICOS,GRA,2021-2024,4
+VU-Coc,Cocoflux,Vanuatu,ICOS,EBF,2001-2004,4
+NZ-ADw,Ashley Dene wet,New Zealand,TERN,CRO,2015-2018,4
+AR-SLu,San Luis,Argentina,AmeriFlux,MF,2009-2011,3
+AR-TF1,Rio Moat bog,Argentina,AmeriFlux,WET,2016-2018,3
+AR-TF2,Rio Pipo bog,Argentina,AmeriFlux,WET,2016-2018,3
+AU-Emr,Emerald,Australia,AmeriFlux,GRA,2011-2013,3
+AU-Fog,Fogg Dam,Australia,AmeriFlux,WET,2006-2008,3
+AU-RDF,"Red Dirt Melon Farm, Northern Territory",Australia,AmeriFlux,WSA,2011-2013,3
+AU-TTE,Ti Tree East,Australia,AmeriFlux,GRA,2012-2014,3
+AU-Ync,Yanco,Australia,AmeriFlux,GRA,2012-2014,3
+CA-BOU,Bouleau Peatland,Canada,AmeriFlux,WET,2018-2020,3
+CA-EM1,Newdale Manitoba,Canada,AmeriFlux,WET,2021-2023,3
+CA-EM2,Shoal Lake Manitoba,Canada,AmeriFlux,WET,2021-2023,3
+CA-MA1,Manitoba Agricultural Site 1,Canada,AmeriFlux,CRO,2009-2011,3
+CA-MA2,Manitoba Agricultural Site 2,Canada,AmeriFlux,CRO,2009-2011,3
+CA-MA3,Manitoba Agricultural Site 3,Canada,AmeriFlux,GRA,2009-2011,3
+CN-Cha,Changsha(Paddy Rice),China,AmeriFlux,MF,2003-2005,3
+CN-Qia,Qianyanzhou,China,AmeriFlux,ENF,2003-2005,3
+CN-Sw2,Siziwang Grazed (SZWG),China,AmeriFlux,GRA,2010-2012,3
+ES-LgS,Laguna Seca,Spain,AmeriFlux,OSH,2007-2009,3
+FI-Lom,Lompolojankka,Finland,AmeriFlux,WET,2007-2009,3
+IT-La2,Lavarone2,Italy,AmeriFlux,ENF,2000-2002,3
+IT-PT1,Parco Ticino forest,Italy,AmeriFlux,DBF,2002-2004,3
+PA-SPn,Sardinilla Plantation,Panama,AmeriFlux,DBF,2007-2009,3
+PA-SPs,Sardinilla-Pasture,Panama,AmeriFlux,GRA,2007-2009,3
+US-A32,ARM-SGP Medford hay pasture,USA,AmeriFlux,GRA,2015-2017,3
+US-CRT,Curtice Walter-Berger cropland,USA,AmeriFlux,CRO,2011-2013,3
+US-DS1,Staten Corn 1,USA,AmeriFlux,CRO,2018-2020,3
+US-EA5,Uvalde Ranch Mesquite Woodland,USA,AmeriFlux,CSH,2021-2023,3
+US-RGF,Stanislaus County Forage Farm,USA,AmeriFlux,CRO,2023-2025,3
+US-RGW,Desha County Rice Farm,USA,AmeriFlux,CRO,2022-2024,3
+US-Snf,Sherman Barn,USA,AmeriFlux,GRA,2018-2020,3
+US-Tw5,East Pond Wetland,USA,AmeriFlux,WET,2018-2020,3
+US-UTV,UFLUX Desert View,USA,AmeriFlux,CRO,2023-2025,3
+US-Wi3,Mature hardwood (MHW),USA,AmeriFlux,DBF,2002-2004,3
+US-WPT,Winous Point North Marsh,USA,AmeriFlux,WET,2011-2013,3
+BJ-Db1,DANGBO,Benin,ICOS,CRO,2022-2024,3
+BW-Gum,Guma,Botswana,ICOS,WET,2018-2020,3
+CN-Qng,Qinling,China,ICOS,DNF,2022-2024,3
+CN-Yan,Yanchi Planted Shrubs,China,ICOS,OSH,2016-2018,3
+DE-Hzd,Hetzdorf,Germany,ICOS,DBF,2022-2024,3
+DE-SfN,Schechenfilz Nord,Germany,ICOS,—,2012-2014,3
+DK-Gds,Gludsted Plantage,Denmark,ICOS,ENF,2020-2022,3
+DK-Skj,Skjern,Denmark,ICOS,WET,2020-2022,3
+ES-VDA,Vall d Alinya (Lleida),Spain,ICOS,GRA,2022-2024,3
+FR-Lqu,Laqueuille,France,ICOS,GRA,2022-2024,3
+FR-Lus,Lusignan,France,ICOS,GRA,2022-2024,3
+IT-Noe,Arca di Noe - Le Prigionette,Italy,ICOS,CSH,2022-2024,3
+JP-Tmk,Tomakomai Flux Research Site,Japan,ICOS,DNF,2001-2003,3
+KE-Aq2,Ausquest 2,Kenya,ICOS,CRO,2022-2024,3
+KR-GmR,Gimje Rice Paddy,South Korea,ICOS,CRO,2017-2019,3
+KR-GmS,Gimje Soybean Field,South Korea,ICOS,CRO,2017-2019,3
+KR-HPK,Haenam Paddy-field,South Korea,ICOS,CRO,2016-2018,3
+KR-UAO,Uiseong Apple Orchard,South Korea,ICOS,CRO,2017-2019,3
+ML-Kem,Kelma,Mali,ICOS,WSA,2007-2009,3
+MN-Udg,Udleg practice forest,Mongolia,ICOS,DNF,2010-2012,3
+RU-Ha1,Hakasia steppe,Russia,ICOS,GRA,2002-2004,3
+SE-Sto,Abisko-Stordalen Palsa Bog,Sweden,ICOS,WET,2022-2024,3
+SE-Trb,Trollberget,Sweden,ICOS,WET,2021-2023,3
+UK-CCr,Cors Caron,United Kingdom,ICOS,GRA,2022-2024,3
+UK-GaB,Garry Bog,United Kingdom,ICOS,GRA,2022-2024,3
+UK-Gnn,Glenullin,United Kingdom,ICOS,GRA,2022-2024,3
+UK-Gwr,Glenwherry,United Kingdom,ICOS,GRA,2022-2024,3
+AU-Ade,Adelaide River,Australia,TERN,WSA,2007-2009,3
+NZ-ADd,Ashley Dene dry,New Zealand,TERN,CRO,2016-2018,3
+AR-Bal,Balcarce BA,Argentina,AmeriFlux,CRO,2012-2013,2
+AU-GWW,Great Western Woodlands,Australia,AmeriFlux,SAV,2013-2014,2
+BR-CST,Caatinga Serra Talhada,Brazil,AmeriFlux,DNF,2014-2015,2
+CA-CF1,Churchill Fen Site 1,Canada,AmeriFlux,WET,2007-2008,2
+CN-Du3,Duolun Degraded Meadow,China,AmeriFlux,GRA,2009-2010,2
+DE-Zrk,Zarnekow,Germany,AmeriFlux,WET,2013-2014,2
+IT-Isp,Ispra ABC-IS,Italy,AmeriFlux,DBF,2013-2014,2
+SJ-Blv,Bayelva Spitsbergen,Svalbard and Jan Mayen,AmeriFlux,SNO,2008-2009,2
+US-A74,ARM SGP milo field,USA,AmeriFlux,CRO,2016-2017,2
+US-ARb,ARM Southern Great Plains burn site- Lamont,USA,AmeriFlux,GRA,2005-2006,2
+US-ARc,ARM Southern Great Plains control site- Lamont,USA,AmeriFlux,GRA,2005-2006,2
+US-ASH,USSL San Joaquin Valley Almond High Salinity,USA,AmeriFlux,DBF,2016-2017,2
+US-ASM,USSL San Joaquin Valley Almond Medium Salinity,USA,AmeriFlux,DBF,2016-2017,2
+US-CAK,Council Alaska Tundra,USA,AmeriFlux,GRA,2024-2025,2
+US-CS1,Central Sands Irrigated Agricultural Field,USA,AmeriFlux,CRO,2018-2019,2
+US-CS3,Central Sands Irrigated Agricultural Field,USA,AmeriFlux,CRO,2019-2020,2
+US-CS4,Central Sands Irrigated Agricultural Field,USA,AmeriFlux,CRO,2020-2021,2
+US-CS6,Central Sands Irrigated Agricultural Field,USA,AmeriFlux,CRO,2022-2023,2
+US-EA6,Camp Wood Shield Ranch Oak Savannah,USA,AmeriFlux,WSA,2023-2024,2
+US-Hn3,Hanford 100H sagebrush,USA,AmeriFlux,OSH,2017-2018,2
+US-KS1,Kennedy Space Center (slash pine),USA,AmeriFlux,ENF,2002-2003,2
+US-KS3,Kennedy Space Center (salt marsh),USA,AmeriFlux,WET,2018-2019,2
+US-Lin,Lindcove Orange Orchard,USA,AmeriFlux,CRO,2009-2010,2
+US-LWW,Little Washita Watershed,USA,AmeriFlux,GRA,1997-1998,2
+US-Me1,Metolius - Eyerly burn,USA,AmeriFlux,ENF,2004-2005,2
+US-PAS,"Florida, Paspalum notatum pasture",USA,AmeriFlux,GRA,2021-2022,2
+US-PSH,USSL San Joaquin Valley Pistachio High,USA,AmeriFlux,DBF,2016-2017,2
+US-PSL,USSL San Joaquin Valley Pistachio Low,USA,AmeriFlux,DBF,2016-2017,2
+US-Tw2,Twitchell Corn,USA,AmeriFlux,CRO,2012-2013,2
+US-UM3,Douglas Lake,USA,AmeriFlux,WAT,2013-2014,2
+US-UTD,UFLUX Dugout Ranch,USA,AmeriFlux,CRO,2023-2024,2
+US-UTE,UFLUX Escalante,USA,AmeriFlux,CRO,2024-2025,2
+US-UTJ,UFLUX Bluff,USA,AmeriFlux,CRO,2024-2025,2
+US-UTP,UFLUX Great Salt Lake Phragmites,USA,AmeriFlux,WET,2024-2025,2
+US-Wi6,Pine barrens #1 (PB1),USA,AmeriFlux,OSH,2002-2003,2
+US-Wi9,Young Jack pine (YJP),USA,AmeriFlux,ENF,2004-2005,2
+BW-Nxr,Nxaraga,Botswana,ICOS,GRA,2019-2020,2
+CH-Crs,Cressier,Switzerland,ICOS,GRA,2015-2016,2
+CH-Frk,Furka,Switzerland,ICOS,GRA,2013-2014,2
+DE-Amv,Amtsvenn,Germany,ICOS,WET,2023-2024,2
+DE-Brs,Braunschweig,Germany,ICOS,CRO,2023-2024,2
+DE-Fen,Fendt,Germany,ICOS,GRA,2023-2024,2
+DE-Gwg,Graswang,Germany,ICOS,GRA,2023-2024,2
+DE-SbM,Sonnenberger Moor,Germany,ICOS,WET,2023-2024,2
+DK-RCW,Riso Campus Willow,Denmark,ICOS,DBF,2023-2024,2
+EE-Pts,Pitsalu,Estonia,ICOS,WET,2022-2023,2
+ES-Mzn,Manzanera,Spain,ICOS,EBF,2023-2024,2
+FI-Sod,Sodankyla,Finland,ICOS,ENF,2023-2024,2
+GL-ZaF,Zackenberg Fen,Greenland,ICOS,WET,2023-2024,2
+IT-Bsn,Bussoleno,Italy,ICOS,GRA,2020-2021,2
+JP-Hc2,Hachihama Experimental Farm,Japan,ICOS,CRO,2003-2004,2
+JP-Nuf,Nagoya University Forest,Japan,ICOS,DBF,2000-2001,2
+JP-Om2,Farm field in Osaka Metropolitan University,Japan,ICOS,GRA,2022-2023,2
+JP-Ozm,Oizumi Urban Park,Japan,ICOS,URB,2015-2016,2
+JP-Tkb,Tsukuba Experimental Watershed,Japan,ICOS,ENF,2018-2019,2
+KR-Nj1,Naju Rice Paddy 1,South Korea,ICOS,CRO,2023-2024,2
+KR-Nj2,Naju Rice Paddy 2,South Korea,ICOS,CRO,2023-2024,2
+NO-Hur,Hurdal,Norway,ICOS,ENF,2023-2024,2
+RU-Fy3,Fyodorovskoye Clear-cut,Russia,ICOS,OSH,2016-2017,2
+RU-NeB,Neleger Burnt Forest,Russia,ICOS,GRA,1999-2000,2
+UK-Ags,Anglesey,United Kingdom,ICOS,GRA,2023-2024,2
+UK-Cvn,Coveney,United Kingdom,ICOS,GRA,2023-2024,2
+UK-HgF,High Fen,United Kingdom,ICOS,GRA,2023-2024,2
+UK-HpF,Hope Farm,United Kingdom,ICOS,CRO,2023-2024,2
+ZA-Spk,Spioenkop,South Africa,ICOS,GRA,2023-2024,2
+ZA-Uby,Umhlabuyalingana,South Africa,ICOS,GRA,2023-2024,2
+AU-Lox,Loxton Eddy Covariance Site,Australia,TERN,DBF,2008-2009,2
+AU-Rob,Robson Creek,Australia,AmeriFlux,EBF,2014-2014,1
+CA-HPC,Havikpak Creek,Canada,AmeriFlux,ENF,2018-2018,1
+CA-Mtk,Mittimatalik (Pond Inlet) Tundra,Canada,AmeriFlux,GRA,2024-2024,1
+CA-SMC,Smith Creek,Canada,AmeriFlux,ENF,2018-2018,1
+DK-Fou,Foulum,Denmark,AmeriFlux,CRO,2005-2005,1
+ES-Ln2,Lanjaron-Salvage logging,Spain,AmeriFlux,OSH,2009-2009,1
+US-A37,ARM-SGP-Waukomis,USA,AmeriFlux,CVM,2024-2024,1
+US-A39,ARM-SGP-Morrison,USA,AmeriFlux,CRO,2024-2024,1
+US-CS5,Central Sands Irrigated Agricultural Field,USA,AmeriFlux,CRO,2021-2021,1
+US-CS8,Central Sands Irrigated Agricultural Field,USA,AmeriFlux,CRO,2023-2023,1
+US-HVs,Happy Valley Wet Sedge Tundra,USA,AmeriFlux,WET,1995-1995,1
+US-PFb,NW1 Pine-1 CHEESEHEAD 2019,USA,AmeriFlux,ENF,2019-2019,1
+US-PFc,NW2 Aspen-1 CHEESEHEAD 2019,USA,AmeriFlux,DBF,2019-2019,1
+US-PFd,NW3 Tussock-1 CHEESEHEAD 2019,USA,AmeriFlux,WET,2019-2019,1
+US-PFe,NW4 Lake-1 CHEESEHEAD 2019,USA,AmeriFlux,WAT,2019-2019,1
+US-PFg,NE1 Pine-2 CHEESEHEAD 2019,USA,AmeriFlux,ENF,2019-2019,1
+US-PFh,NE2 Pine-3 CHEESEHEAD 2019,USA,AmeriFlux,ENF,2019-2019,1
+US-PFi,NE3 Hardwood-1 CHEESEHEAD 2019,USA,AmeriFlux,DBF,2019-2019,1
+US-PFj,NE4 Maple-1 CHEESEHEAD 2019,USA,AmeriFlux,DBF,2019-2019,1
+US-PFk,SW1 Aspen-2 CHEESEHEAD 2019,USA,AmeriFlux,DBF,2019-2019,1
+US-PFL,SW2 Aspen-3 CHEESEHEAD 2019,USA,AmeriFlux,DBF,2019-2019,1
+US-PFm,SW3 Hardwood-2 CHEESEHEAD 2019,USA,AmeriFlux,DBF,2019-2019,1
+US-PFn,SW4 Hardwood-3 CHEESEHEAD 2019,USA,AmeriFlux,DBF,2019-2019,1
+US-PFp,SE2 Hardwood-4 CHEESEHEAD 2019,USA,AmeriFlux,DBF,2019-2019,1
+US-PFq,SE3 Aspen-4 CHEESEHEAD 2019,USA,AmeriFlux,DBF,2019-2019,1
+US-PFr,SE4 Tussock-2 CHEESEHEAD 2019,USA,AmeriFlux,WET,2019-2019,1
+US-PFt,SE6 Pine-4 CHEESEHEAD 2019,USA,AmeriFlux,ENF,2019-2019,1
+US-Sag,Sag River,USA,AmeriFlux,WET,1996-1996,1
+US-Wi0,Young red pine (YRP),USA,AmeriFlux,ENF,2002-2002,1
+US-Wi1,Intermediate hardwood (IHW),USA,AmeriFlux,DBF,2003-2003,1
+US-Wi2,Intermediate red pine (IRP),USA,AmeriFlux,ENF,2003-2003,1
+US-Wi5,Mixed young jack pine (MYJP),USA,AmeriFlux,ENF,2004-2004,1
+US-Wi7,Red pine clearcut (RPCC),USA,AmeriFlux,OSH,2005-2005,1
+US-Wi8,Young hardwood clearcut (YHW),USA,AmeriFlux,DBF,2002-2002,1
+CH-For,Forel,Switzerland,ICOS,CRO,2024-2024,1
+CH-Tnk,Tanikon,Switzerland,ICOS,CRO,2024-2024,1
+CN-Wnb,Wulanbuhe,China,ICOS,BSV,2021-2021,1
+DE-Etn,Ettenheim,Germany,ICOS,DBF,2024-2024,1
+ES-HdD,Hinojosa del Duque,Spain,ICOS,SAV,2024-2024,1
+FI-Ant,Anttila,Finland,ICOS,CRO,2022-2022,1
+FI-Pap,Pappilansuo,Finland,ICOS,CRO,2022-2022,1
+FI-Sar,Sarkisuo,Finland,ICOS,CRO,2022-2022,1
+IE-Gwr,Gowran,Ireland,ICOS,CRO,2016-2016,1
+JP-KaP,Kasumigaura lotus paddy,Japan,ICOS,CRO,1997-1997,1
+KE-Aq1,Ausquest 1,Kenya,ICOS,CRO,2019-2019,1
+KR-TwB,Taehwa Broadleaf forest,South Korea,ICOS,DBF,2024-2024,1
+KR-TwC,Taehwa Coniferous forest,South Korea,ICOS,ENF,2024-2024,1
+RU-Tur,Tura,Russia,ICOS,DNF,2004-2004,1
+ZA-Jks,Jonkershoek,South Africa,ICOS,GRA,2024-2024,1
