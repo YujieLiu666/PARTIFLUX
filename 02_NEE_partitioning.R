@@ -75,7 +75,6 @@
       )
   }
   EddyData = recreate_time_vars(EddyData)
-  EddyData = EddyData[EddyData$Year == 2018, ] # subset data to test
 }
 
 # Initialize EProc --------------------------------------------

@@ -60,7 +60,6 @@ run_one_site <- function(site_name, file_name, lat, lon,
     }
     
     EddyData = recreate_time_vars(EddyData)
-    EddyData = EddyData[EddyData$Year == 2018, ]  # keep your test filter
     
     # ------------------------------
     # Initialize REddyProc
