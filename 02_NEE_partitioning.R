@@ -33,6 +33,9 @@
       "%z"
     )
   ) / 100
+  
+  # @Mo, I understand by specifying the site information above, there is no need to 
+  # change anything in the codes below. Please double check.
 }
 
 # load data --------------------------------------------
